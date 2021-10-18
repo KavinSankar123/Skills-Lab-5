@@ -18,7 +18,7 @@ Our group made a simple program that takes a user's name and age and prints it o
 4. See result.
 
 ## How to Contribute
-Our project welcomes contributions to our open source projects on Github. When contributing, please follow the Code of Conduct.
+Our project welcomes contributions to our open source projects on Github. When contributing, please follow the [Code of Conduct](https://github.com/KavinSankar123/Skills-Lab-5/blob/main/Code%20of%20Conduct.md).
 
 ### Issues
 Feel free to submit issues and enhancement requests.
